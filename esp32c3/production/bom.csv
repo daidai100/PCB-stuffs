@@ -1,0 +1,8 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",0603,2,LED,
+"J1, J2",PinHeader_1x07_P2.54mm_Vertical,2,Conn_01x07_Pin,
+"J3, J4",Conn_Pin_1x4,2,Conn_01x04_Pin,
+U1,ESP32-C3-WROOM-02,1,ESP32-C3-WROOM-02,
+U2,PCB_USB_Connecter,1,~,
+U3,DPAK228P968X238-4N,1,NJM2845DL1-33-TE1,
+"U4, U6",1608Metric,2,~,
