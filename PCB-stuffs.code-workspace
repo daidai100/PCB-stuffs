@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "PCB-stuffs",
+			"path": "."
+		},
+		{
+			"name": "esp32c3_test",
+			"path": "../../Desktop/esp32c3_test"
+		},
+		{
+			"name": "esp32c3",
+			"path": "../../Desktop/esp32c3"
+		}
+	],
+	"settings": {}
+}
